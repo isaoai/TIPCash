@@ -1,4 +1,4 @@
-<h1>TIPCash (React-Native)</h1>
+<h1>TIPCash</h1>
 <p>
   TIP CASH is a mobile wallet or "e-wallet" that allows user or student to pay tuition fees and other school expenses for Technological Institute of the Philippines (TIP). It is accepted in both TIP Quezon City and TIP Manila campus. It is designed to give convenience of paying school bills anywhere and anytime without the need to withdraw money. Additionally, TIPCash offers a hassle-free, secure and comes with quick email confirmation of the transactions.
 </p>
@@ -23,8 +23,6 @@
     <img src="https://github.com/angstvra/TIPCash/assets/93997417/acbbf86e-d20d-44da-be9a-95f6c4592167" width="200" height="450">
 </div>
 
-
-<p>This is an unfinished project that will be updated or modified in the future. Issues and Goals are stated below:</p>
 
 ## Issues
 <ul>
